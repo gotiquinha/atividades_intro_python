@@ -10,6 +10,7 @@ Um programa simples que imprime "Hello World" na tela.
 ```python
 def mostrar_mensagem():
     print("Hello World")
+````
 
 ### 2. Perguntar Número
 Solicita ao usuário um número e então exibe uma mensagem com o número informado.
