@@ -1,4 +1,4 @@
-# 10desafios-python
+# praticas_basicas
 # Exercícios Iniciais em Python
 
 Este repositório contém uma série de exercícios simples que fiz ao iniciar meu aprendizado em Python. Eles abrangem conceitos básicos, como entrada/saída, operações aritméticas e conversões simples.
